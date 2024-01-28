@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently looking for first job experience with development
+- 🔭 I’m a Full Stack Developer
 - 🌱 I’m currently improving on:<div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
